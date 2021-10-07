@@ -1,3 +1,13 @@
+# GitHubFetch 
+fetches github users information from the github api.
+
+https://githubfetch.grantvanb.ca/
+
+Developers can download and run the software using CRA calls, as well as npm import
+
+Site is built with React & Bootstrap
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
