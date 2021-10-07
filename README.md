@@ -1,6 +1,7 @@
 # GitHubFetch 
 fetches github users information from the github api.
 
+The site is deployed at:
 https://githubfetch.grantvanb.ca/
 
 Developers can download and run the software using CRA calls, as well as npm import
